@@ -1,0 +1,17 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.page-footer{
+position: fixed;
+bottom: 0px;
+}
+
+#navbar{
+    border-bottom:1px solid rgb(red, green, blue) ;
+}
